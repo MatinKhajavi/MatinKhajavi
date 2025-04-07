@@ -1,6 +1,6 @@
 ## Hi <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> 
 
-I'm Matin Khajavi, an experienced ML/Data Scientist passionate about combining deep theoretical knowledge with practical coding skills to build scalable and impactful solutions.
+I'm Matin Khajavi, an experienced ML Scientist/Engineer who combines deep theoretical expertise with practical coding skills build scalable and impactful solutions.
 
 I specialize in leveraging both state-of-the-art (SOTA) machine learning techniques and software engineering principles to solve complex real-world problems and deliver innovative solutions. With a strong foundation in both fields, I develop systems that are not only intelligent but also efficient, maintainable, and ready for deployment.
 
